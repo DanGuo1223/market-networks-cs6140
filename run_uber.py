@@ -20,7 +20,7 @@ lr = 0.0001  # learning rate
 len_closeness = 4  # length of closeness dependent sequence
 len_period = 4  # length of peroid dependent sequence
 len_trend = 4  # length of trend dependent sequence
-nb_residual_unit = 10  # number of residual units
+nb_residual_unit = 5  # number of residual units
 
 nb_flow = 2  # demand and supply
 days_test = 5 # number of test days (total 40 days)
